@@ -11,6 +11,8 @@ class Calculator:
         self.firstNumber = a
         self.secondNumber = b
         print("I am called automatically when object is created")
+        print("I am called automatically when object is created")
+
 
     def getData(self):
         print("I am now executing as method in class")
